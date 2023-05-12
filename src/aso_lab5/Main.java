@@ -5,7 +5,7 @@ package aso_lab5;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Prutean & Neer:");
+        System.out.println("Melnic & Svet & Tomasciuc:");
 
         int number = 17;
 
